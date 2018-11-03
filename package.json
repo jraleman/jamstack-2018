@@ -31,7 +31,8 @@
   "devDependencies": {
     "netlify-cli": "^2.2.0",
     "netlify-lambda": "^1.0.2",
-    "prettier": "^1.14.2"
+    "prettier": "^1.14.2",
+    "react-day-picker": "^7.2.4"
   },
   "repository": {
     "type": "git",
