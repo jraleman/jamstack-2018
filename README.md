@@ -6,7 +6,11 @@
 
 An application that takes cafeteria data and visualizes customer data trends.
 
-### Demographics
+### Problem to Solve
+
+...
+
+#### Demographics
 
 A combined of almost a quarter of the workers in the industry are from a Latino
 and Asian background.
@@ -37,13 +41,32 @@ npm install
 
 ## Project Structure
 
-Coming soon :)
+...
 
 ### Process Flow Diagram
 
 ![pfd](resources/process-flow-diagram.pdf)
 
-## Styleguide
+### Graph Query
+
+```
+query dateRange($time_now: DateTime!) {
+    allDates(filter: {
+        dates Absent_none: {
+            from_gte: $time_now - <<1 year>>
+            to_lte: $time_now
+        }
+    }) {
+        date
+        meal_type
+        meal_name
+        meal_tags
+        num_txn
+    }
+}
+```
+
+## Style-guide
 
 Coming soon :)
 
