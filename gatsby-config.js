@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Cafeteria Tracking System',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
