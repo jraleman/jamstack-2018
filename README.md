@@ -1,6 +1,10 @@
-# github-2018
+# Cafeteria Supply Chain System
 
-...
+![logo](resources/logo.svg)
+
+## About
+
+An application that takes cafeteria data and visualizes customer data trends.
 
 ## Contributors
 
