@@ -35,6 +35,18 @@ Install all the needed dependencies:
 npm install
 ```
 
+## Project Structure
+
+Coming soon :)
+
+### Process Flow Diagram
+
+![pfd](resources/process-flow-diagram.pdf)
+
+## Styleguide
+
+Coming soon :)
+
 ## Contributors
 
 - [Gio Aaguirre](https://github.com/its-gio)
