@@ -15,6 +15,26 @@ and Asian background.
 
 [Source: Employed persons by detailed occupation, sex, race, and Hispanic or Latino ethnicity](https://www.bls.gov/cps/cpsaat11.htm)
 
+## Setup
+
+Follow the steps from the following link if you don't have `node` or `npm`
+installed:
+
+- [How to install NodeJS](https://howtonode.org/how-to-install-nodejs)
+
+Clone the repository:
+
+```
+git clone https://github.com/jraleman/jamstack-2018 jamstack-2018_jraleman
+cd jamstack-2018_jraleman/
+```
+
+Install all the needed dependencies:
+
+```
+npm install
+```
+
 ## Contributors
 
 - [Gio Aaguirre](https://github.com/its-gio)
