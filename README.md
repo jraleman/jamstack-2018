@@ -4,11 +4,12 @@
 
 ## About
 
-An application that takes cafeteria data and visualizes customer data trends.
-
-### Problem to Solve
-
-...
+- An application that takes cafeteria data and visualizes customer data trends.
+- A software solution to track popularity of dishes to predict the amount of food to order.
+- Demographics is cafeteria workers.
+- Cafeteria workers who needs something quick, with the most output with minimal input
+- Easy to use and implement into a system that already exist.
+- Find out what dishes and what days are the most popular dishes.
 
 #### Demographics
 
@@ -40,8 +41,6 @@ npm install
 ```
 
 ## Project Structure
-
-...
 
 ### Process Flow Diagram
 
