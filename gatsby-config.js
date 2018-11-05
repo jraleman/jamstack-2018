@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Cafeteria Tracking System',
+    title: 'Cafeteria Tracking System'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -8,8 +8,8 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/assets/images`,
-      },
+        path: `${__dirname}/src/assets/images`
+      }
     },
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
@@ -22,9 +22,10 @@ module.exports = {
         background_color: '#01babc',
         theme_color: '#01babc',
         display: 'minimal-ui',
-        icon: 'src/assets/images/website-icon.png', // This path is relative to the root of the site.
-      },
+        icon: 'src/assets/images/website-icon.png'
+      }
     },
-    'gatsby-plugin-offline',
-  ],
+    'gatsby-plugin-sass',
+    'gatsby-plugin-offline'
+  ]
 }
