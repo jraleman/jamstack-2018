@@ -1,8 +1,10 @@
-# Cafeteria Supply Chain System
+# JAMStack Hackathon 2018
+
+https://github.com/freeCodeCamp/2018-jamstack-hackathon
+
+## Cafeteria Supply Chain System
 
 ![logo](resources/logo.svg)
-
-## About
 
 An application that takes cafeteria data and visualizes customer data trends.
 
